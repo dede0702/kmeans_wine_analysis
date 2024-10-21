@@ -74,7 +74,3 @@ Contribuições são bem-vindas! Se você tiver alguma ideia ou melhoria, fique 
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-Com esse README, seu repositório será organizado e fácil de entender por outros desenvolvedores e colaboradores!
